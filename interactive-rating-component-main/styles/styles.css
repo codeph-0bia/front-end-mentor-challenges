@@ -68,4 +68,45 @@ body {
   line-height: 2.2rem;
   margin-top: 1.35rem;
 }
+
+.container .card .rating-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container .card .rating-wrapper .rating-btn {
+  color: #959eac;
+  font-size: 1.4rem;
+  font-weight: 700;
+  background-color: rgba(124, 135, 152, 0.2);
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-top: 3rem;
+}
+
+.container .card .rating-wrapper .rating-btn:hover {
+  background-color: #fb7413;
+  cursor: pointer;
+}
 /*# sourceMappingURL=styles.css.map */
