@@ -1,0 +1,38 @@
+    .container {
+        border: 1px solid magenta;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .card {
+            background-color: $dark-blue;
+            width: 87.8%;
+            // height: 100px;
+            border-radius: 1.5rem;
+            padding: 2.5rem;
+            .star {
+                background-color: $medium-grey;
+                width: 4rem;
+                height: 4rem;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 4rem;
+                img {
+                    width: 1.4rem;
+                }
+            }
+            h1 {
+                font-size: 2.3rem;
+                color: $white;
+                margin-top: 1.7rem;
+            }
+            .card-text {
+                color: $light-grey;
+                font-size: 1.415rem;
+                line-height: 2.2rem;
+                margin-top: 1.35rem;
+            }
+        }
+    }
