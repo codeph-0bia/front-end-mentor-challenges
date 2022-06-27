@@ -23,4 +23,7 @@ Users should be able to:
 
 ### Screenshot
 ![desktop](https://raw.githubusercontent.com/codeph-0bia/front-end-mentor-challenges/main/interactive-rating-component-main/screenshots/desktop-1.png)
-![desktop] (./screenshots/desktop-2.png)
+![desktop](https://raw.githubusercontent.com/codeph-0bia/front-end-mentor-challenges/main/interactive-rating-component-main/screenshots/desktop-2.png)
+
+![mobile](https://raw.githubusercontent.com/codeph-0bia/front-end-mentor-challenges/main/interactive-rating-component-main/screenshots/mobile-1.png)
+![mobile](https://raw.githubusercontent.com/codeph-0bia/front-end-mentor-challenges/main/interactive-rating-component-main/screenshots/mobile-2.png)
