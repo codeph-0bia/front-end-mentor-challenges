@@ -22,5 +22,5 @@ Users should be able to:
 - Frontend Mentor - [link](https://www.frontendmentor.io/profile/codeph-0bia)
 
 ### Screenshot
-![desktop] (./screenshots/desktop-1.png)
+![desktop] (./screenshots/desktop-1.png?raw=true)
 ![desktop] (./screenshots/desktop-2.png)
